@@ -1,2 +1,4 @@
-# mindsprint-ai
-MindSprint AI — an AI product by Thompson Venture Works. Live: https://mindsprintai.com
+# MindSprint AI
+An AI product by Thompson Venture Works.
+Live site: https://mindsprintai.com
+Built by Thompson Venture Works — https://thompsonventureworks.com
